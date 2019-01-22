@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "High-throughput discovery of novel developmental phenotypes"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Using a standardized phenotyping platform that incorporates high-resolution 3D imaging, we identify phenotypes at multiple time points for previously uncharacterized genes and additional phenotypes for genes with previously reported mutant phenotypes.'
+date: 2016-09-27
+venue: 'Nature'
+paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5295821/'
+citation: 'Dickinson, et al. (2016). &quot;High-throughput discovery of novel developmental phenotypes.&quot; <i>Nature</i>. 537(7621).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+<i>Using a standardized phenotyping platform that incorporates high-resolution 3D imaging, we identify phenotypes at multiple time points for previously uncharacterized genes and additional phenotypes for genes with previously reported mutant phenotypes.</i>
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5295821/pdf/nihms809908.pdf)

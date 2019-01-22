@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Automated Diagnosis of Plus Disease in Retinopathy of Prematurity Using Deep Convolutional Neural Networks"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This fully automated algorithm diagnosed plus disease in ROP with comparable or better accuracy than human experts. This has potential applications in disease detection, monitoring, and prognosis in infants at risk of ROP.'
+date: 2018-07-01
+venue: 'JAMA Ophthalmology'
+paperurl: 'https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2680579'
+citation: 'Brown, et al. (2018). &quot;Automated Diagnosis of Plus Disease in Retinopathy of Prematurity Using Deep Convolutional Neural Networks&quot; <i>JAMA Ophthalmology</i>. 136(7).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+<i>This fully automated algorithm diagnosed plus disease in ROP with comparable or better accuracy than human experts. This has potential applications in disease detection, monitoring, and prognosis in infants at risk of ROP.</i>
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://opb-imgserve-production.s3.amazonaws.com/original/05-02_oph_automated_diagnosis_of_plus_disease_in_retinopathy_of_prematurity_1525283684006.pdf)

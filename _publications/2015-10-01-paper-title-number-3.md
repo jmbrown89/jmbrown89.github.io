@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Detection and characterisation of bone destruction in murine rheumatoid arthritis using statistical shape models"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This paper presents a fully automated method for obtaining quantitative measurements of bone destruction from volumetric micro-CT images of a mouse hind paw. '
+date: 2017-08-01
+venue: 'Medical Image Analysis'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1361841517300774'
+citation: 'Brown, et al. (2017). &quot;Detection and characterisation of bone destruction in murine rheumatoid arthritis using statistical shape models&quot; <i>Medical Image Analysis</i>. 40.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+This paper presents a fully automated method for obtaining quantitative measurements of bone destruction from volumetric micro-CT images of a mouse hind paw. 
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S1361841517300774/pdfft?md5=f9b401650bb2cf6a8ff0d3b34d018164&pid=1-s2.0-S1361841517300774-main.pdf&isDTMRedir=true&download=true)
