@@ -12,6 +12,8 @@ James is a Senior Lecturer in Computer Science (Imaging/Vision) at the Universit
 
 James' interests are primarily in the development of statistical and machine learning models for clinical decision support and understanding how genes affect different bodily systems. His work spans a number of areas including micro-CT imaging of mouse models (inflammatory arthritis, embryonic development), fundus photography of the infant retina (retinopathy of prematurity, or ROP), and multi-modal magnetic resonance imaging of white matter lesions (glioblastoma, stroke).
 
+Keywords: medical imaging, deep learning, computer vision, image processing, clinical deicison support
+
 Current projects
 ------
 If you are interested in tackling real-world problems related to healthcare, computer vision or machine learning then please get in touch!
